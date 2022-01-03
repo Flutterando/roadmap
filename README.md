@@ -60,7 +60,7 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 - [Flutter Curso 2022 (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
 - [Catálogo de Widgets](https://docs.flutter.dev/reference/widgets)
 
-## Cursos gratuitos
+## Cursos pagos
 
 - [Flutter para iniciantes](https://masterclass.flutterando.com.br/public/products/8f64d9b5-e1fb-4cf0-86a0-2e04c4580a5b)
 - [Curso de Flutter (COD3R)](https://flutterando.page.link/rniX)
