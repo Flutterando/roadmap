@@ -62,7 +62,7 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 
 ## Cursos pagos
 
-- [Flutter para iniciantes](https://masterclass.flutterando.com.br/public/products/8f64d9b5-e1fb-4cf0-86a0-2e04c4580a5b)
+- [Flutter para iniciantes](https://masterclass.flutterando.com.br/flutter-iniciante-2)
 - [Curso de Flutter (COD3R)](https://flutterando.page.link/rniX)
 
 # Roadmap
