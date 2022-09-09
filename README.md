@@ -159,6 +159,7 @@ O StatefulWidget concede ao Widget a possibilidade de gerenciar o próprio estad
 - [AULÃO sobre MobX (Flutterando)](https://www.youtube.com/watch?v=Z6U6L9e8gmE)
 - [AULÃO sobre Triple (Flutterando)](https://www.youtube.com/watch?v=CS97q2PwjSo)
 
+
 ## Arquitetura
 
 A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma arquitetura, mesmo que o desenvolvedor não tenha pensado nisso.
