@@ -6,6 +6,10 @@ O objetivo desse repositório é catalogar os conteúdos existentes na internet 
 
 É recomendado assistir [ESTE VÍDEO](https://www.youtube.com/watch?v=BTENKdRVS2U) antes de iniciar.
 
+### IDE'S Online
+
+- [DARTPAD](https://dartpad.dev/?)
+
 ## Lógica de Programação
 
 Precisamos entender como criar algorítmos, por tanto, antes de realmente colocar a mão no código, é importante estudar um pouco sobre Lógica de programação.
@@ -15,14 +19,15 @@ Nessa etapa não é necessário saber nenhuma linguagem.
 - [Curso de lógica de programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV).
 - [Curso Lógica de Programação Completo 2021](https://www.youtube.com/watch?v=iF2MdbrTiBM)
 
-## Orientação a Objetos (POO)
+## Orientação a Objetos (POO)-
 
 Esse é o paradgma mais utilizado no Flutter. Por isso devemos conhecer o básico para iniciar nesse framework.
 
-Não tenha medo de aprender 2 ou 3 linguagens a mais para dominar esse paradgma.
+Não tenha medo de apren-der 2 ou 3 linguagens a mais para dominar esse paradgma.
 
-É recomendado aprender um pouco sobre o Java, pois é uma linguagem que utiliza exclusivamente a POO, forçando-o a entender toda a base desse paradgma. 
+É recomendado aprender um pouco sobre o Java, pois é uma linguagem que utiliza exclusivamente a POO, forçando-o a entender toda a base desse paradgma.
 
+- [Programação Orientada a Objetos (POO) - Deivid Willyan ](https://www.youtube.com/watch?v=STdkaNVUKYs)
 - [Programação Orientada a Objetos (POO)](https://www.youtube.com/watch?v=QY0Kdg83orY)
 - [Curso de programação oriendada a objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
@@ -31,8 +36,10 @@ Não tenha medo de aprender 2 ou 3 linguagens a mais para dominar esse paradgma.
 Após entender mais sobre Lógica de Programação, devemos focar na linguagem principal do Flutter, o Dart.
 
 Assista primeiro:
+
 - [Dart (a linguagem do Flutter)](https://www.youtube.com/watch?v=i7IzlVImHEc)
 - [Por que o Flutter usa o Dart (Ative as legendas)](https://www.youtube.com/watch?v=5F-6n_2XWR8)
+- [Dart (a linguagem do Flutter) em 50 minutos](https://www.youtube.com/watch?v=NZNO6xW5icQ)
 
 É importante ressaltar que o Dart sofreu mudanças consideráveis na segunda metade de 2021, por tanto, não é recomendado para iniciantes os cursos gravados antes de julho de 2021.
 
@@ -54,9 +61,9 @@ Não pule essa etapa, pois conhecer a base do Dart será o principal diferencial
 
 Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas do SDK. Se não conhece o Flutter, assista [ESTE VÍDEO](https://www.youtube.com/watch?v=vIP2iLFjEIk&t=66s).
 
-
 ## Cursos gratuitos
 
+- [Como aprender Flutter em 2022?](https://www.youtube.com/watch?v=85eg7P1se4Y)
 - [Flutter Curso 2022 (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
 - [Catálogo de Widgets](https://docs.flutter.dev/reference/widgets)
 
@@ -87,6 +94,11 @@ Antes de usar o Flutter, o desenvolvedor deverá aprender pelomenos a sintaxe b�
 Git é essencial para um desenvolvedor.
 
 - [Git para desenvolvedores Flutter](https://www.youtube.com/watch?v=Kx3M6XUpcFE)
+- [Trabalhando com FORKS no GIT e GITHUB!]()
+
+## Flutter Widget
+
+- [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 
 ## Widgets nativos
 
@@ -107,21 +119,41 @@ Existem três formas de criar widgets customizados, o StatelessWidget, StatefulW
 Após aprender a criar widgets customizados, o desenvolvedor deve aprender a dividir esses widgets em arquivos separados para que possa facilitar a compreenção de outras pessoas que estarão lendo o código posteriomente.
 
 Algumas dicas sobre isso:
+
 - Tente ter um arquivo por Widget.
 - Reflita o nome do Widget no nome do arquivo: Ex: HomePage(home_page.dart).
 
-## Widgets de inputs
+## Widgets de inputs, conteúdo gratuito
 
+- [Flutter Curso 2022 #7 - Criação de widgets](https://www.youtube.com/watch?v=u6Q60aDbE_E)
 - [AULÃO: Criação de formulários](https://www.youtube.com/watch?v=5SIw8bXiP7o)
+- [Formulários e validação no Flutter](https://www.youtube.com/watch?v=q5pcOL-lZ4I)
+- [Flutter Curso 2022 #22 - Máscara](https://www.youtube.com/watch?v=xSa3S-TJJww)
+
+### Cursos para Membros
+
+- [FLUTTER AULÃO - Formulários do jeito certo](https://www.youtube.com/watch?v=yjKvlMAtpC4)
 - [Tudo sobre Máscaras](https://www.youtube.com/watch?v=sjQLmibDEu4)
 
 ## Aprenda a fazer animações
+
+## Cursos gratuito
+
+### Cursos para Membros
 
 - [Tudo sobre animações no Flutter](https://www.youtube.com/watch?v=XM-8UTkFr4c&t=3108s)
 
 ## Consumo de APIs externas
 
+### Cursos para Membros
+
 - [AULÃO: Consumo de APIs (Flutterando)](https://www.youtube.com/watch?v=PUQEd7xRldM)
+
+## Cursos gratuito
+
+- [Curso de Flutter #40 - [API] Consumindo API externa (http))](https://www.youtube.com/watch?v=vjeK_oc5cXQ)
+- [HTTP e DIO no Flutter para Conectar API REST)](https://www.youtube.com/watch?v=66Lv8aIxtuA)
+- [Como consumir uma API usando Flutter de forma gratuita!](https://www.youtube.com/watch?v=wEgT7cgW-ss)
 
 ## Domine o Provider
 
@@ -131,7 +163,6 @@ O Provider é a recomendação da equipe do Flutter para quem está iniciando no
 - [Provider em 10 minutos (Renato Mota)](https://www.youtube.com/watch?v=Gm8QuYvOTwE)
 - [Como utilizar o Provider e o ChangeNotifier(Prof. Diego Antunes)](https://www.youtube.com/watch?v=xDdAXmAUt6c)
 - [Flutter Provider for Beginners (Inglês)](https://www.youtube.com/watch?v=P47JJU6dlcA)
-
 
 ## Aprenda alguns Design Patterns
 
@@ -144,8 +175,13 @@ Padrões de projetos sÃo importantes para o trabalho em equipe.
 
 ## Testes de unidade
 
-- [Um programador confiável (Elemar Jr)](https://www.youtube.com/watch?v=XSdT2myLlw4)
+## Cursos para Membros
+
 - [AULÃO sobre testes de unidade (Flutterando)](https://www.youtube.com/watch?v=BLHPRg8ickY)
+
+## Cursos gratuito
+
+- [Um programador confiável (Elemar Jr)](https://www.youtube.com/watch?v=XSdT2myLlw4)
 - [Semana do Flutter sobre testes (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-etEtbvgDnO40SYKOSktCj4)
 
 ## Gerência de estado
@@ -155,15 +191,29 @@ O StatefulWidget concede ao Widget a possibilidade de gerenciar o próprio estad
 - [AULÃO sobre gerência de estado (Flutterando)](https://www.youtube.com/watch?v=_F0GI2dnt-g)
 - [ValueNotifier. A reatividade mais rápida do Flutter](https://www.youtube.com/watch?v=S1PgnMqVgsM)
 - [Curso de gerência de estadi com ValueNotifier (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eG0eVkHu2IaO48TljxPjPq)
+- [AULÃO sobre Triple (Flutterando)](https://www.youtube.com/watch?v=CS97q2PwjSo)
+- [Curso de Flutter #6 - Estados (StatelessWidget)](https://www.youtube.com/watch?v=4CCW_cdVBQg)
+- [Curso de Flutter #8 - Estados (StatefulWidget)](https://www.youtube.com/watch?v=8-mnyze0gKw)
+
+### Cursos para Membros
+
 - [AULÃO sobre BLoC (Flutterando)](https://www.youtube.com/watch?v=UB28e59GmK8)
 - [AULÃO sobre MobX (Flutterando)](https://www.youtube.com/watch?v=Z6U6L9e8gmE)
-- [AULÃO sobre Triple (Flutterando)](https://www.youtube.com/watch?v=CS97q2PwjSo)
-
 
 ## Arquitetura
 
 A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma arquitetura, mesmo que o desenvolvedor não tenha pensado nisso.
 
+### Cursos para Membros
+
 - [AULÃO sobre Clean Architecture (Flutterando)](https://www.youtube.com/watch?v=fABLC2fxQwg)
+- [Li o Clean Architecture 2 vezes!!! Dá pra aplicar no Flutter?](https://www.youtube.com/watch?v=VacEeKvY2bg&list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
+
+## Cursos gratuito
+
 - [Playlist sobre Clean Dart (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
 - [Curso sobre Arquitetura (Deivid Willyan)](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS)
+
+## Conhecimento sobre InheritedWidget
+
+- [Flutter Curso 2022 #12 - Primeira e última aula sobre InheritedWidget](https://www.youtube.com/watch?v=aTbuuvSq-Gs)
