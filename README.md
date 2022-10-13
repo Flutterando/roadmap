@@ -94,7 +94,7 @@ Antes de usar o Flutter, o desenvolvedor deverá aprender pelomenos a sintaxe b�
 Git é essencial para um desenvolvedor.
 
 - [Git para desenvolvedores Flutter](https://www.youtube.com/watch?v=Kx3M6XUpcFE)
-- [Trabalhando com FORKS no GIT e GITHUB!]()
+- [Trabalhando com FORKS no GIT e GITHUB!](https://www.youtube.com/watch?v=osE-7OXqFCI)
 
 ## Flutter Widget
 
