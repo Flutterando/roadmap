@@ -19,7 +19,7 @@ Nessa etapa não é necessário saber nenhuma linguagem.
 - [Curso de lógica de programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV).
 - [Curso Lógica de Programação Completo 2021](https://www.youtube.com/watch?v=iF2MdbrTiBM)
 
-## Orientação a Objetos (POO)-
+## Orientação a Objetos (POO)
 
 Esse é o paradgma mais utilizado no Flutter. Por isso devemos conhecer o básico para iniciar nesse framework.
 
@@ -137,7 +137,7 @@ Algumas dicas sobre isso:
 
 ## Aprenda a fazer animações
 
-## Cursos gratuito
+### Cursos gratuito
 
 ### Cursos para Membros
 
@@ -149,7 +149,7 @@ Algumas dicas sobre isso:
 
 - [AULÃO: Consumo de APIs (Flutterando)](https://www.youtube.com/watch?v=PUQEd7xRldM)
 
-## Cursos gratuito
+### Cursos gratuito
 
 - [Curso de Flutter #40 - [API] Consumindo API externa (http))](https://www.youtube.com/watch?v=vjeK_oc5cXQ)
 - [HTTP e DIO no Flutter para Conectar API REST)](https://www.youtube.com/watch?v=66Lv8aIxtuA)
@@ -175,11 +175,11 @@ Padrões de projetos sÃo importantes para o trabalho em equipe.
 
 ## Testes de unidade
 
-## Cursos para Membros
+### Cursos para Membros
 
 - [AULÃO sobre testes de unidade (Flutterando)](https://www.youtube.com/watch?v=BLHPRg8ickY)
 
-## Cursos gratuito
+### Cursos gratuito
 
 - [Um programador confiável (Elemar Jr)](https://www.youtube.com/watch?v=XSdT2myLlw4)
 - [Semana do Flutter sobre testes (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-etEtbvgDnO40SYKOSktCj4)
@@ -209,7 +209,7 @@ A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma ar
 - [AULÃO sobre Clean Architecture (Flutterando)](https://www.youtube.com/watch?v=fABLC2fxQwg)
 - [Li o Clean Architecture 2 vezes!!! Dá pra aplicar no Flutter?](https://www.youtube.com/watch?v=VacEeKvY2bg&list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
 
-## Cursos gratuito
+### Cursos gratuito
 
 - [Playlist sobre Clean Dart (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
 - [Curso sobre Arquitetura (Deivid Willyan)](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS)
