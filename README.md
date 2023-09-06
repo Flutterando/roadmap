@@ -142,9 +142,10 @@ O Provider é a recomendação da equipe do Flutter para quem está iniciando no
 Padrões de projetos sÃo importantes para o trabalho em equipe.
 
 - [Repository Pattern no Flutter (balta.io)](https://www.youtube.com/watch?v=Q05t3mgaMfk)
-- [CopyWIth](https://blog.flutterando.com.br/o-padr%C3%A3o-copywith-no-flutter-dart-267e3d218ffc)
+- [CopyWith (Jacob)](https://blog.flutterando.com.br/o-padr%C3%A3o-copywith-no-flutter-dart-267e3d218ffc)
 - [Injeção de dependências (Flutterando)](https://www.youtube.com/watch?v=KpPnDHpgHnA&t=60s)
 - [MVC, MVP e MVVM no Flutter (Flutterando)](https://www.youtube.com/watch?v=WgadnZcujuc)
+- [Factory(Felipe Deschamps)](https://www.youtube.com/watch?v=arAz2Ff8s88&ab_channel=FilipeDeschamps)
 
 ## Testes de unidade
 
@@ -174,3 +175,44 @@ A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma ar
 - [Curso sobre Arquitetura (Deivid Willyan)](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS)
 - [Masterclass Paga Intermediária (Flutterando)](https://masterclass.flutterando.com.br/public/products)
   > ficar atento ao canal do Youtube para ver o anuncio de vagas
+
+## Menções honrosas
+
+Principais (~e únicos~) gerenciadores de versão do Flutter
+
+- [Link do Puro](https://puro.dev/) | [Video Explicativo](https://www.youtube.com/watch?v=ImCGQM6jhic&t=181s&ab_channel=JacobMouradaFlutterando)
+- [Link do FVM](https://fvm.app/) | [Video Explicativo](https://www.youtube.com/watch?v=9n5dLXJMSqU&ab_channel=JacobMouradaFlutterando)
+
+- Qual é melhor? 
+Atualmente o aproach de gerencia de armazenamento do Puro e sua configuração de "ambientes" tem agradado mais a comunidade. Sua instalação diretamente no shell simples e direta também.
+
+Link de criadores de conteúdo relevante que estão sempre colaborando ou já tem um acervo de qualidade.
+
+- [Jacob Moura da Flutterando](https://www.youtube.com/@JacobMoura7)
+- [Prof. Diego Antunes](https://www.youtube.com/@drantunes)
+- [Bwolf](https://www.youtube.com/@BwolfDev)
+- [Flutter Mapp](https://www.youtube.com/@FlutterMapp/videos)
+- [Flutter Official](https://www.youtube.com/@flutterdev)
+- [Toshi Ossada](https://toshiossada.medium.com/)
+
+Links gerais da comunidade (discord, telegram...)
+
+- [Linktree](https://linktr.ee/Flutterando)
+
+Sugestões de Livros. (Leia para aprender, nunca levando tudo como regra e sim absorvendo as partes que lhe fizerem sentido)
+
+- Clean Code
+  
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/48bd94af-05dd-4148-8a2f-41384146e368)
+
+- Padrões de Projeto
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/45e1bfcc-090a-41b2-8cf5-d434ec7a4e86)
+
+- Clean Arch
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/286b11ae-89e0-4ace-bfe1-fec626bf02fa)
+
+- Refatoração
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/438a86c8-e526-443c-a8c7-66e78109b83f)
