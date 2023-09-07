@@ -55,7 +55,6 @@ Não pule essa etapa, pois conhecer a base do Dart será o principal diferencial
 
 Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas do SDK. Se não conhece o Flutter, assista [ESTE VÍDEO](https://www.youtube.com/watch?v=vIP2iLFjEIk&t=66s).
 
-
 ## Cursos gratuitos
 
 - [Flutter Curso 2022 (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
@@ -68,6 +67,11 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 
 - [Curso de Flutter (COD3R)](https://www.udemy.com/course/curso-flutter/)
 - [Curso de Flutter em Inglês (Angela)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+## Livros
+
+- [Flutter in Action](https://www.google.com/search?q=Flutter+in+Action+book&sca_esv=562513523&rlz=1C1GCEA_enBR1014BR1014&ei=bML1ZPG7LZG75OUPwue7uA0&ved=0ahUKEwjxob_v75CBAxWRHbkGHcLzDtcQ4dUDCBA&uact=5&oq=Flutter+in+Action+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkZsdXR0ZXIgaW4gQWN0aW9uIGJvb2syBxAuGBMYgAQyFhAuGBMYgAQYlwUY3AQY3gQY4ATYAQFIsEZQ7jRYiURwAngBkAEAmAHlAaABkQaqAQUwLjQuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQABiKBRiwAxhDwgIHEAAYExiABMICCBAAGBYYHhgT4gMEGAAgQYgGAZAGCroGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rimc/1)
+- [Flutter Complete Reference](https://www.google.com/search?q=Flutter+Complete+Reference+book&sca_esv=562513523&rlz=1C1GCEA_enBR1014BR1014&ei=g8L1ZMLzDMne5OUPzI-K0AQ&ved=0ahUKEwiCwZr675CBAxVJL7kGHcyHAkoQ4dUDCBA&uact=5&oq=Flutter+Complete+Reference+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0ZsdXR0ZXIgQ29tcGxldGUgUmVmZXJlbmNlIGJvb2syBxAAGBMYgAQyBxAuGBMYgAQyBhAAGB4YE0iQBlAAWABwAHgBkAEAmAHSBaAB0gWqAQM2LTG4AQPIAQD4AQL4AQHiAwQYACBBiAYB&sclient=gws-wiz-serp&bshm=rimc/1)
 
 # Roadmap
 
