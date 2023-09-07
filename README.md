@@ -1,4 +1,4 @@
-# Flutter Roadmap 2022
+# Flutter Roadmap 2023
 
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre Flutter e concatenar em uma espécie de "roadmap" para auxiliar os iniciantes.
 
@@ -19,12 +19,13 @@ Nessa etapa não é necessário saber nenhuma linguagem.
 
 Esse é o paradgma mais utilizado no Flutter. Por isso devemos conhecer o básico para iniciar nesse framework.
 
-Não tenha medo de aprender 2 ou 3 linguagens a mais para dominar esse paradgma.
+Não tenha medo de aprender 2 ou 3 linguagens a mais para dominar esse paradigma.
 
-É recomendado aprender um pouco sobre o Java, pois é uma linguagem que utiliza exclusivamente a POO, forçando-o a entender toda a base desse paradgma. 
+É recomendado (~e não obrigatório~) aprender um pouco sobre o Java, pois é uma linguagem que utiliza exclusivamente a POO, forçando-o a entender toda a base desse paradgma. 
 
 - [Programação Orientada a Objetos (POO)](https://www.youtube.com/watch?v=QY0Kdg83orY)
 - [Curso de programação oriendada a objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+- [Classes abstratas no FLUTTER](https://youtu.be/nZov6ztrocc)
 
 ## O Dart
 
@@ -62,8 +63,11 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 
 ## Cursos pagos
 
-- [Flutter para iniciantes](https://masterclass.flutterando.com.br/flutter-iniciante-2)
-- [Curso de Flutter (COD3R)](https://flutterando.page.link/rniX)
+- [Masterclass Paga Iniciante (Flutterando)](https://masterclass.flutterando.com.br/public/products)
+  > ficar atento ao canal do Youtube para ver o anuncio de vagas
+
+- [Curso de Flutter (COD3R)](https://www.udemy.com/course/curso-flutter/)
+- [Curso de Flutter em Inglês (Angela)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 # Roadmap
 
@@ -96,11 +100,11 @@ A tela de um aplicativo Flutter é constituida pela união de outros widgets nat
 
 - Domine os principais widgets de alinhamento: **(Column, Row, Stack)**.
 - Entenda o funcionamento do **Container**.
-- Teste todos os widgets disponível [NESSE CATÁLOGO](https://docs.flutter.dev/reference/widgets).
+- Teste todos os widgets disponíveis [NESSE CATÁLOGO](https://docs.flutter.dev/reference/widgets).
 
 ## Criação de widgets
 
-Existem três formas de criar widgets customizados, o StatelessWidget, StatefulWidget e InheritedWidget. A diferênça entre os três deve ser a primeira coisa que um novo desenvolvedor Flutter deve aprender.
+Existem três formas básicas de criar widgets customizados, o StatelessWidget, StatefulWidget e InheritedWidget. A diferênça entre os três deve ser entendida desde o início.
 
 ## Componentização de widget
 
@@ -138,27 +142,29 @@ O Provider é a recomendação da equipe do Flutter para quem está iniciando no
 Padrões de projetos sÃo importantes para o trabalho em equipe.
 
 - [Repository Pattern no Flutter (balta.io)](https://www.youtube.com/watch?v=Q05t3mgaMfk)
-- [CopyWIth](https://blog.flutterando.com.br/o-padr%C3%A3o-copywith-no-flutter-dart-267e3d218ffc)
+- [CopyWith (Jacob)](https://blog.flutterando.com.br/o-padr%C3%A3o-copywith-no-flutter-dart-267e3d218ffc)
 - [Injeção de dependências (Flutterando)](https://www.youtube.com/watch?v=KpPnDHpgHnA&t=60s)
 - [MVC, MVP e MVVM no Flutter (Flutterando)](https://www.youtube.com/watch?v=WgadnZcujuc)
+- [Factory(Felipe Deschamps)](https://www.youtube.com/watch?v=arAz2Ff8s88&ab_channel=FilipeDeschamps)
 
 ## Testes de unidade
 
 - [Um programador confiável (Elemar Jr)](https://www.youtube.com/watch?v=XSdT2myLlw4)
 - [AULÃO sobre testes de unidade (Flutterando)](https://www.youtube.com/watch?v=BLHPRg8ickY)
 - [Semana do Flutter sobre testes (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-etEtbvgDnO40SYKOSktCj4)
+- [Curso Pago de testes de unidade (Flutterando)](https://masterclass.flutterando.com.br/public/products/94222fd5-92e5-4890-8e87-455ef4346858)
 
 ## Gerência de estado
 
 O StatefulWidget concede ao Widget a possibilidade de gerenciar o próprio estado. Mas as vezes é necessário mudar o estado de vários widgets em uma ação. Para isso, existe alguns padrões para auxiliar nisso.
 
+- [BASE DA GERENCIA DE ESTADO (Flutterando)](https://www.youtube.com/watch?v=XGjCatQadrk&ab_channel=JacobMouradaFlutterando)
 - [AULÃO sobre gerência de estado (Flutterando)](https://www.youtube.com/watch?v=_F0GI2dnt-g)
 - [ValueNotifier. A reatividade mais rápida do Flutter](https://www.youtube.com/watch?v=S1PgnMqVgsM)
-- [Curso de gerência de estadi com ValueNotifier (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eG0eVkHu2IaO48TljxPjPq)
+- [Curso de gerência de estado com ValueNotifier (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eG0eVkHu2IaO48TljxPjPq)
 - [AULÃO sobre BLoC (Flutterando)](https://www.youtube.com/watch?v=UB28e59GmK8)
 - [AULÃO sobre MobX (Flutterando)](https://www.youtube.com/watch?v=Z6U6L9e8gmE)
 - [AULÃO sobre Triple (Flutterando)](https://www.youtube.com/watch?v=CS97q2PwjSo)
-
 
 ## Arquitetura
 
@@ -167,3 +173,46 @@ A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma ar
 - [AULÃO sobre Clean Architecture (Flutterando)](https://www.youtube.com/watch?v=fABLC2fxQwg)
 - [Playlist sobre Clean Dart (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
 - [Curso sobre Arquitetura (Deivid Willyan)](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS)
+- [Masterclass Paga Intermediária (Flutterando)](https://masterclass.flutterando.com.br/public/products)
+  > ficar atento ao canal do Youtube para ver o anuncio de vagas
+
+## Menções honrosas
+
+Principais (~e únicos~) gerenciadores de versão do Flutter
+
+- [Link do Puro](https://puro.dev/) | [Video Explicativo](https://www.youtube.com/watch?v=ImCGQM6jhic&t=181s&ab_channel=JacobMouradaFlutterando)
+- [Link do FVM](https://fvm.app/) | [Video Explicativo](https://www.youtube.com/watch?v=9n5dLXJMSqU&ab_channel=JacobMouradaFlutterando)
+
+- Qual é melhor? 
+Atualmente o aproach de gerencia de armazenamento do Puro e sua configuração de "ambientes" tem agradado mais a comunidade. Sua instalação diretamente no shell simples e direta também.
+
+Link de criadores de conteúdo relevante que estão sempre colaborando ou já tem um acervo de qualidade.
+
+- [Jacob Moura da Flutterando](https://www.youtube.com/@JacobMoura7)
+- [Prof. Diego Antunes](https://www.youtube.com/@drantunes)
+- [Bwolf](https://www.youtube.com/@BwolfDev)
+- [Flutter Mapp](https://www.youtube.com/@FlutterMapp/videos)
+- [Flutter Official](https://www.youtube.com/@flutterdev)
+- [Toshi Ossada](https://toshiossada.medium.com/)
+
+Links gerais da comunidade (discord, telegram...)
+
+- [Linktree](https://linktr.ee/Flutterando)
+
+Sugestões de Livros. (Leia para aprender, nunca levando tudo como regra e sim absorvendo as partes que lhe fizerem sentido)
+
+- Clean Code
+  
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/48bd94af-05dd-4148-8a2f-41384146e368)
+
+- Padrões de Projeto
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/45e1bfcc-090a-41b2-8cf5-d434ec7a4e86)
+
+- Clean Arch
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/286b11ae-89e0-4ace-bfe1-fec626bf02fa)
+
+- Refatoração
+
+![image](https://github.com/thKali/roadmap_fork/assets/100535432/438a86c8-e526-443c-a8c7-66e78109b83f)
