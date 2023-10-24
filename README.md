@@ -66,6 +66,7 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
   > ficar atento ao canal do Youtube para ver o anuncio de vagas
 
 - [Curso de Flutter (COD3R)](https://www.udemy.com/course/curso-flutter/)
+- [Curso de Flutter (Academia do flutter)](https://academiadoflutter.com.br/)
 - [Curso de Flutter em Inglês (Angela)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 ## Livros
@@ -198,6 +199,7 @@ Link de criadores de conteúdo relevante que estão sempre colaborando ou já te
 - [Flutter Mapp](https://www.youtube.com/@FlutterMapp/videos)
 - [Flutter Official](https://www.youtube.com/@flutterdev)
 - [Toshi Ossada](https://toshiossada.medium.com/)
+- [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman)
 
 Links gerais da comunidade (discord, telegram...)
 
