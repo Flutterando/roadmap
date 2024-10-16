@@ -67,6 +67,7 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 
 - [Curso de Flutter (COD3R)](https://www.udemy.com/course/curso-flutter/)
 - [Curso de Flutter em Inglês (Angela)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+- [Curso de Flutter avançado (Paulo)](https://www.udemy.com/course/desenvolvimento-flutter-avancado)
 
 ## Livros
 
