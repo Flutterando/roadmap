@@ -1,4 +1,4 @@
-# Flutter Roadmap 2024
+# Flutter Roadmap 2025
 
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre Flutter e concatenar em uma espécie de "roadmap" para auxiliar os iniciantes.
 
