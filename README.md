@@ -180,7 +180,7 @@ A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma ar
 - [Finalmente o Flutter recomendou uma Arquitetura! É oficial!](https://www.youtube.com/watch?v=_pPUqNXudXg)
 - [MVVM, Result e Command. Descubra os Design da Nova ARQUITETURA do Flutter](https://www.youtube.com/watch?v=uFOTMiU82vs)
 - [Flutter recomenda o uso de “Optimistic State”](https://www.youtube.com/watch?v=49LD384mlS0)
-- [O Design Pattern que irá mudar na nova arquitetura do Flutter]()
+- [O Design Pattern que irá mudar na nova arquitetura do Flutter](https://youtu.be/gzmmK4dfE_g)
 - [Implementando a NOVA Arquitetura recomendada do Flutter AO VIVO]()
 
 <br>
