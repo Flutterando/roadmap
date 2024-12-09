@@ -177,7 +177,6 @@ A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma ar
 
 - [AULÃO sobre Clean Architecture (Flutterando)](https://www.youtube.com/watch?v=fABLC2fxQwg)
 - [Playlist sobre Clean Dart (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
-- [Curso sobre Arquitetura (Deivid Willyan)](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS)
 - [Masterclass Paga Intermediária (Flutterando)](https://masterclass.flutterando.com.br/public/products)
   > ficar atento ao canal do Youtube para ver o anuncio de vagas
 
