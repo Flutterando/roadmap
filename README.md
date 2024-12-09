@@ -195,7 +195,7 @@ Link de criadores de conteúdo relevante que estão sempre colaborando ou já te
 
 - [Jacob Moura da Flutterando](https://www.youtube.com/@JacobMoura7)
 - [Prof. Diego Antunes](https://www.youtube.com/@drantunes)
-- [Bwolf](https://www.youtube.com/@BwolfDev)
+- [Paulo Mendes](https://www.youtube.com/@paulomendesdev)
 - [Flutter Mapp](https://www.youtube.com/@FlutterMapp/videos)
 - [Flutter Official](https://www.youtube.com/@flutterdev)
 - [Toshi Ossada](https://toshiossada.medium.com/)
