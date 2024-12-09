@@ -201,7 +201,7 @@ Link de criadores de conteúdo relevante que estão sempre colaborando ou já te
 
 Links gerais da comunidade (discord, telegram...)
 
-- [Linktree](https://linktr.ee/Flutterando)
+- [Linktree](https://link.flutterando.com.br)
 
 Sugestões de Livros. (Leia para aprender, nunca levando tudo como regra e sim absorvendo as partes que lhe fizerem sentido)
 
