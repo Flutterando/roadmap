@@ -175,6 +175,18 @@ O StatefulWidget concede ao Widget a possibilidade de gerenciar o próprio estad
 
 A arquitetura de um projeto define a vida útil do mesmo. Todo app tem alguma arquitetura, mesmo que o desenvolvedor não tenha pensado nisso.
 
+1. **App Architecture (Recomendada)**
+- [Documentação da arquitetura recomendada](https://docs.flutter.dev/app-architecture)
+- [Finalmente o Flutter recomendou uma Arquitetura! É oficial!](https://www.youtube.com/watch?v=_pPUqNXudXg)
+- [MVVM, Result e Command. Descubra os Design da Nova ARQUITETURA do Flutter](https://www.youtube.com/watch?v=uFOTMiU82vs)
+- [Flutter recomenda o uso de “Optimistic State”](https://www.youtube.com/watch?v=49LD384mlS0)
+- [O Design Pattern que irá mudar na nova arquitetura do Flutter]()
+- [Implementando a NOVA Arquitetura recomendada do Flutter AO VIVO]()
+
+<br>
+
+2. **Conteúdos sobre Clean Architecture:**
+
 - [AULÃO sobre Clean Architecture (Flutterando)](https://www.youtube.com/watch?v=fABLC2fxQwg)
 - [Playlist sobre Clean Dart (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s)
 - [Masterclass Paga Intermediária (Flutterando)](https://masterclass.flutterando.com.br/public/products)
