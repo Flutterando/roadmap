@@ -198,7 +198,6 @@ Link de criadores de conteúdo relevante que estão sempre colaborando ou já te
 - [Paulo Mendes](https://www.youtube.com/@paulomendesdev)
 - [Flutter Mapp](https://www.youtube.com/@FlutterMapp/videos)
 - [Flutter Official](https://www.youtube.com/@flutterdev)
-- [Toshi Ossada](https://toshiossada.medium.com/)
 
 Links gerais da comunidade (discord, telegram...)
 
